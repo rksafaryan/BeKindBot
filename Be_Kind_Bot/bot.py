@@ -4,7 +4,7 @@ import telebot
 
 from model import check_rudeness
 
-BOT_TOKEN = '6118948686:AAHJSRvZIbdESnH3PD57eujP-tDztrMwDB8'
+BOT_TOKEN = 'secret'
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
