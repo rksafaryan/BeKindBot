@@ -1,5 +1,3 @@
-# BigHWKLiAT
+# BeKindBot
 
-BeKindBot has the code for running the bot
-
-BigHw has the jupyter notebook with experiments
+A bot for your telegram group. It will remind you and other users to be kind to each other.
